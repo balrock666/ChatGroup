@@ -47,13 +47,13 @@ mods/ChatGroup/config/chatgroup.json
 }
 ```
 
-Placeholders
+## Placeholders
 
 {name} – Player name
 
 {message} – Chat message content
 
-Group Detection
+## Group Detection
 
 ChatGroup automatically detects player roles using permissions.json, including:
 
@@ -67,13 +67,13 @@ Dedicated operator lists (ops)
 
 No additional configuration is required.
 
-Example Chat Output
+## Example Chat Output
 
 [Admin-OP] Balrock: Hello everyone
 [VIP] Steve: Hi!
 [Joueur] Alex: Test message
 
-Compatibility
+## Compatibility
 
 Designed for Hytale server plugins
 
@@ -81,12 +81,12 @@ Works on local servers and hosted environments
 
 Does not bundle or modify the Hytale server API
 
-License
+## License
 
 This project is open-source.
 You are free to use, modify, and redistribute it.
 
-Author
+## Author
 
 Balrock
 
