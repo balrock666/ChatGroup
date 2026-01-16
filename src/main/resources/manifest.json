@@ -1,0 +1,10 @@
+{
+  "Group": "me.balrock",
+  "Name": "ChatGroup",
+  "Version": "1.0.0",
+  "Description": "Plugin de groupes + permissions + prefix chat",
+  "Main": "me.balrock.chatgroup.ChatGroupPlugin",
+  "Authors": [
+    { "Name": "Balrock" }
+  ]
+}
